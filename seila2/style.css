@@ -1,0 +1,34 @@
+body{
+    margin: auto;
+    font-family: Arial;
+    line-height: 1,5;
+}
+span{
+    text-align: center;
+    margin-top: 50px;
+    letter-spacing: 0.01cm;
+}
+    <!--div{}-->
+p{
+    text-align: center;
+}
+#o{
+    color: rgb(82, 188, 61);
+    background-color: rgb(141, 111, 48);
+    font-variant: small-caps;
+    text-align: center-in-width;
+    
+}
+#i{
+    color: rgb(184, 64, 17);
+    font-size: x-small;
+    font-weight: bolder;
+    font-style:italic;
+    text-align: center;
+}
+#u{
+    color: blue;
+    font-size: x-large;
+    font-family: Tangeríne;
+    text-align: right;
+}
